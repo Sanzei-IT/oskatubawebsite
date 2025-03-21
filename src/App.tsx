@@ -243,7 +243,7 @@ function App() {
                   </div>
                   <div className="flex items-center space-x-4 p-4 bg-indigo-50 rounded-lg">
                     <Mail className="w-8 h-8 text-indigo-600" />
-                    <span className="text-gray-700">oskatuba@smkn1banyuanyar.sch.id</span>
+                    <span className="text-gray-700">osissmkn1bx@gmail.com</span>
                   </div>
                   <div className="flex items-center space-x-4 p-4 bg-indigo-50 rounded-lg">
                     <Calendar className="w-8 h-8 text-indigo-600" />
